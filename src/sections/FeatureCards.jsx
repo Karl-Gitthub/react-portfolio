@@ -1,6 +1,6 @@
 import React from 'react'
 import { abilities } from '../constants/index.js'
-import SpotlightCard from '../components/SpotLightCard.jsx'
+import SpotlightCard from '../components/SpotlightCard.jsx'
 
 const FeatureCards = () => {
   return (
