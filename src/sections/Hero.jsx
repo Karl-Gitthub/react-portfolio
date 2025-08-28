@@ -33,14 +33,11 @@ const  Hero = () => {
         {/*LEFT: HERO CONTENT*/}
         <header className="flex flex-col justify-center md:w-full w-screen md:px-20 px-5">
             <div className="flex flex-col">
-                <p>&lt;body&gt;</p>
-                <p className="text-white-50 text-lg">Hello, I am</p>
                 <div className="hero-text">
                     <h1 className="text-white font-semibold md:text-7xl text-4xl leading-tight">
                         Karl
                     </h1>
-                    
-                    {/*<h1>
+                    <h1>
                     Shaping 
                     <span className="slide">
                         <span className="wrapper">
@@ -60,7 +57,7 @@ const  Hero = () => {
                     </h1>
 
                     <h1>Into Real Project</h1>
-                    <h1>that Deliver Results</h1>*/}
+                    <h1>that Deliver Results</h1>
 
                 </div>
 
